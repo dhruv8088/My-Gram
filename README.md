@@ -52,4 +52,16 @@ To get started with development, you need to install few tools
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).   
+
+To learn React, check out the [React documentation](https://reactjs.org/).  
+## Screenshorts
+
+
+<img width="858" alt="2022-11-22" src="https://user-images.githubusercontent.com/96379277/203155379-a03911a5-a77e-4eda-a164-868329a913aa.png"><br><br>
+<img width="960" alt="2022-11-20 (5)" src="https://user-images.githubusercontent.com/96379277/203155458-d2eac67b-472d-42a7-b40c-fc4ffb9bacdc.png"><br><br>
+<img width="960" alt="2022-11-20 (1)" src="https://user-images.githubusercontent.com/96379277/203155518-354561e6-fb71-4c34-a498-66c9ef958d2e.png"><br><br>
+
+## Issues
+Changes and additions are invited.
+
+It is recommened to first raise an issue and then do PR's and changes.
